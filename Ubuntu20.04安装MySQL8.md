@@ -105,7 +105,7 @@ sudo passwd root
 
 编辑mysqld.cnf文件,修改bind-address
 
-![image-20210723121401964](C:\Users\20622\AppData\Roaming\Typora\typora-user-images\image-20210723121401964.png)
+![image-20210723121401964](https://github.com/moran-ai/Linux/blob/master/image-20210723121401964.png)
 
 重新启动mysql服务
 
